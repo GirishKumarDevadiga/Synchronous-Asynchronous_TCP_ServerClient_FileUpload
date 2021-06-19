@@ -1,5 +1,7 @@
 # File upload using TCP (Synchronous and Asynchronous)
 
+Objective is to upload the files from multiple client and save the uploaded files using server
+
 ## Uploaded files details
 ### Clients will upload the files present in the Files folder to the server
 
